@@ -38,3 +38,6 @@ source 'https://rubygems.org'
  gem 'bootstrap-sass'
 
  gem 'pry-rails', :group => :development
+
+ # Used for encrypting User passwords
+ gem 'bcrypt'
